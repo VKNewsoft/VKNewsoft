@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Rangga Afriansyah
 
-<!--
-**VKNewsoft/VKNewsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://newsoftdev.com/img/newsoft.png" alt="banner Newsoft Developer - Back End Developer, Web Designer, Full Stack Developer, Logo Designer">
+Hello! I'm Rangga Afriansyah, a passionate backend web developer with expertise in the CodeIgniter framework. I love building efficient and scalable web applications that provide great user experiences. I'm always eager to learn and explore new technologies in the web development landscape.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me around the web 🌎: <a href="https://newsoftdev.com/"><img align="left" width="150" height="150" src="https://newsoftdev.com/img/generic/tentang_big.png"></a>
+
+# Skills:
+PHP
+- CodeIgniter Framework (3 & 4)
+- MySQL
+- RESTful API Development
+- MVC Architecture
+- JavaScript
+- HTML5, CSS3, and Responsive Web Design
+- Git and Version Control
+- Unit Testing
