@@ -14,6 +14,10 @@ Hello! I'm Rangga Afriansyah, a passionate backend web developer with expertise 
     <td>- MySQL</td>
   </tr>
   <tr>
+    <td>- CodeIgniter 3</td>
+    <td>- CodeIgniter 4</td>
+  </tr>
+  <tr>
     <td>- RESTful API Development</td>
     <td>- MVC Architecture</td>
   </tr>
@@ -23,6 +27,18 @@ Hello! I'm Rangga Afriansyah, a passionate backend web developer with expertise 
   </tr>
   <tr>
     <td>- Git and Version Control</td>
-    <td>- Unit Testing</td>
+    <td>- Project Management</td>
+  </tr>
+  <tr>
+    <td>- QA/Tester</td>
+    <td>- Team Management</td>
+  </tr>
+  <tr>
+    <td>- ERP System</td>
+    <td>- HR Management System</td>
+  </tr>
+  <tr>
+    <td>- Procurement</td>
+    <td>- Poin of Sales</td>
   </tr>
 </table>
