@@ -19,7 +19,7 @@ Hello! I'm Rangga Afriansyah, a passionate backend web developer with expertise 
   </tr>
   <tr>
     <td>- RESTful API Development</td>
-    <td>- MVC Architecture</td>
+    <td>- MVC & HMVC Architecture</td>
   </tr>
   <tr>
     <td>- JavaScript</td>
@@ -40,5 +40,9 @@ Hello! I'm Rangga Afriansyah, a passionate backend web developer with expertise 
   <tr>
     <td>- Procurement</td>
     <td>- Poin of Sales</td>
+  </tr>
+  <tr>
+    <td>- IT Supervising</td>
+    <td>- Team Lead Developer</td>
   </tr>
 </table>
