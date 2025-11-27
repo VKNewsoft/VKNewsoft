@@ -14,13 +14,14 @@ I began my programming career building business-focused desktop applications usi
 Created systems for:
 - POS (Point of Sales)  
 - Inventory Management  
-- Asset Management  
+- Asset Management
+- OMR Scoring Suite
 
 ---
 
 ### 🌐 2012–Present — Backend Web Development
 Transitioned into full-time backend web development with deep experience in:
-- PHP Native  
+- PHP Native
 - MySQL  
 - CodeIgniter 3 & 4  
 - Laravel  
@@ -29,7 +30,7 @@ Transitioned into full-time backend web development with deep experience in:
 Successfully built and maintained:
 - ERP Systems (Food, Chemical, Pharmaceutical Manufacturing)  
 - Inventory, Finance, Sales, POS & Production Modules  
-- HRIS Systems (Payroll, Attendance, Admin Portal)  
+- HRIS Systems (Payroll, Attendance, Admin Portal, Appraisals & KPI)  
 - HRIS Mobile App API Architecture  
 
 ---
@@ -54,8 +55,15 @@ Successfully built and maintained:
 ### 🧰 Tools & Collaboration  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Project Management](https://img.shields.io/badge/Project%20Management-0078D7)
-![Testing](https://img.shields.io/badge/Testing-00C7B7)
+![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)
+![Custom Task Manager (CI4)](https://img.shields.io/badge/Custom%20Task%20Manager%20(CI4)-E30000?logo=codeigniter&logoColor=white)
+
+### 🤖 AI Coding Tools for GitHub Integration
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)
+![ChatGPT Code Assistant](https://img.shields.io/badge/ChatGPT%20(Code%20Assistant)-00A67E?logo=openai&logoColor=white)
+![DeepSeek Coder](https://img.shields.io/badge/DeepSeek%20Coder-353535?logo=opsgenie&logoColor=white)
+![Codeium](https://img.shields.io/badge/Codeium-0052CC?logo=codeium&logoColor=white)
+![Tabnine](https://img.shields.io/badge/Tabnine-3B3B98?logo=tabnine&logoColor=white)
 
 ---
 
